@@ -1,0 +1,44 @@
+# Node modules
+/node_modules/
+
+# Cypress
+/cypress/videos/
+/cypress/screenshots/
+/cypress/fixtures/
+
+# environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+*.log
+
+# build and prod folders
+/dist/
+/build/
+/coverage/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# temp files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# npm cache files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cypress generated files
+cypress/videos/
+/cypress/screenshots/
+
+# Cypress cache files
+/cypress/cache/
